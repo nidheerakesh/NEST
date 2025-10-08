@@ -1,0 +1,91 @@
+🪴 Nest — your cozy corner for productivity, moods, and college life
+
+Nest isn’t just a planner — it’s meant to feel alive.
+It’s that one app that knows your day, your friends, your energy, and gently helps you balance work, rest, and connection.
+It blends aesthetic self-care with smart organization.
+
+🌤️ The Core Idea
+
+Nest is an aesthetic productivity and mood app for college students, where:
+
+You can plan your day,
+
+Track your moods and habits,
+
+Stay synced with your college timetable,
+
+See when your friends are free or busy,
+
+And get AI-powered suggestions when you’re overwhelmed or low on motivation.
+
+It’s meant to make productivity feel peaceful, not pressured — like a cozy shared workspace with your favorite people.
+
+🧭 The Main Features
+🕓 1. Personalized Timetable
+
+When users sign up, they enter their name, roll number, batch, course, and year.
+
+Nest automatically shows their daily class schedule based on that info.
+
+You can check what’s next, when you’re free, and how your day looks — without juggling between WhatsApp and notes.
+
+🌿 2. Personal Dashboard
+
+Displays your to-dos, mood, and habits in one clean, pastel-themed view.
+
+You can log moods with emojis or colors (☀️ happy, 🌧️ tired, 🌸 peaceful).
+
+It subtly adapts its colors based on your recent moods — giving it a living feeling.
+
+⏳ 3. Pomodoro Timer (but cute)
+
+Instead of a sterile clock, it’s designed with themes and gentle animations.
+
+The break screen might say things like “take a sip of water 🌷” or “you’re doing great.”
+
+Productivity feels like self-care, not hustle.
+
+📘 4. Task & Habit System
+
+Create tasks with subtasks, add small icons, or choose a vibe tag (🌼 study, ☕ chill, 🏃‍♀️ health).
+
+Track daily habits like journaling, drinking water, or walking to class.
+
+Progress feels rewarding — not competitive.
+
+💬 5. Friend Connection
+
+See your friends’ moods, free slots, and productivity streaks.
+
+Plan group hangouts or study sessions when everyone’s free.
+
+You can even check who’s “in class,” “on break,” or “studying” — with small, cute statuses.
+
+🤖 6. AI Assistant
+
+Nest’s personal AI assistant learns from your habits and moods.
+
+It gives gentle suggestions like:
+
+“You’ve had back-to-back classes since 10 AM — how about a walk before your next one?”
+“You’ve been feeling low lately. Maybe plan something light with friends this evening?”
+
+It’s not just productivity AI — it’s emotionally aware.
+
+🧡 The Experience
+
+Nest should feel like:
+
+opening a calm digital space that knows you, your schedule, and your people.
+
+You don’t open it to stress — you open it to breathe, plan, and feel understood.
+
+It’s the opposite of cold task apps — it’s warm, relatable, and built for real student life.
+
+✨ The Vision
+
+You once described it perfectly — Nest is:
+
+“a cute, peaceful planner that keeps me grounded and helps me know when my friends are free.”
+
+It’s your group’s shared rhythm, your mental check-in, and your daily reset — all in one place.
